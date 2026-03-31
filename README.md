@@ -149,7 +149,7 @@ I can help you with:
 ## 📫 CONNECT
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akshaysoner/">
+  <a href="https://www.linkedin.com/in/kr-akshay/">
     <img src="https://img.shields.io/badge/LinkedIn-Akshay%20Soner-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://wa.me/+918305271652">
